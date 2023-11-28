@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CODECODE/一些问题.md",
+                "file": "obsidian笔记测试/测试.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CODECODE/一些问题.md",
+                "file": "obsidian笔记测试/测试.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CODECODE/一些问题.md",
+                "file": "obsidian笔记测试/测试.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CODECODE/一些问题.md"
+                "file": "obsidian笔记测试/测试.md"
               }
             }
           }
@@ -146,12 +146,12 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "06f2eae6c52f6411",
+  "active": "dbab34ea8da6e287",
   "lastOpenFiles": [
-    "PICTURE_FILES",
-    "未命名.canvas",
     "CODECODE/一些问题.md",
     "obsidian笔记测试/测试.md",
+    "PICTURE_FILES",
+    "未命名.canvas",
     "README.md",
     "CODECODE",
     "我是一个markdown链接.md",
