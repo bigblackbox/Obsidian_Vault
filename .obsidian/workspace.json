@@ -1,0 +1,149 @@
+{
+  "main": {
+    "id": "e6b88e5719541ca7",
+    "type": "split",
+    "children": [
+      {
+        "id": "338bf4117a02a9f0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "421e3c9b7228a172",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "03c0f8c056ebaae3",
+    "type": "split",
+    "children": [
+      {
+        "id": "334da9d63a78da44",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "06f2eae6c52f6411",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ddd80706238510a8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3376773c6e03c9b9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "70aa714d535f0501",
+    "type": "split",
+    "children": [
+      {
+        "id": "1b5e860f00db37e7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3e9cc643d4a165b6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "71aedf9e9061425f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f14bc142b04a3c28",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "cb6ac6b7476e03cb",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "421e3c9b7228a172",
+  "lastOpenFiles": [
+    "未命名.canvas",
+    "obsidian笔记测试/测试.md",
+    "www.baidu.com.md",
+    "我是一个markdown链接.md",
+    "obsidian笔记测试"
+  ]
+}
