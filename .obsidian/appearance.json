@@ -3,5 +3,8 @@
   "cssTheme": "Things",
   "theme": "system",
   "translucency": true,
-  "monospaceFontFamily": "Andale Mono"
+  "monospaceFontFamily": "Andale Mono",
+  "enabledCssSnippets": [
+    "default"
+  ]
 }
