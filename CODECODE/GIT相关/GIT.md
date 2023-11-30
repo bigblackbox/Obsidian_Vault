@@ -1,0 +1,5 @@
+- wei.liu2mars@outlook.com
+- git_token
+	- xxx
+- git push时提示不支持password认证，需要使用token认证
+	- git remote set-url origin https://xxx@github.com/{username}/{git-repository}.git
