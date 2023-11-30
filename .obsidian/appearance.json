@@ -1,5 +1,7 @@
 {
   "accentColor": "",
   "cssTheme": "Things",
-  "theme": "system"
+  "theme": "system",
+  "translucency": true,
+  "monospaceFontFamily": "Andale Mono"
 }
