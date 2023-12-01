@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "a4eeeecb1a2bd384",
+        "id": "9116ebac5e1839b4",
         "type": "tabs",
         "children": [
           {
-            "id": "f620bb9ecc68184a",
+            "id": "8990439362ab0cdc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "obsidian笔记测试/测试.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -146,7 +146,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "f620bb9ecc68184a",
+  "active": "8990439362ab0cdc",
   "lastOpenFiles": [
     "CODECODE/GIT相关/GIT.md",
     "obsidian笔记测试/测试.md",

@@ -9,7 +9,8 @@
     "link",
     "pic_center",
     "table",
-    "list_left_line",
-    "quotes_callout"
+    "quotes_callout",
+    "quote",
+    "marker"
   ]
 }
