@@ -4,10 +4,11 @@
 - git push时提示不支持password认证，需要使用token认证
 	- git remote set-url origin `https://xxx@github.com/{username}/{git-repository}.git`
 - 开启代理后，git网络不同，需要设置git代理
-	- 设置指定仓库
+	- 设置指定仓库http代理，需要进入指定仓库
+		- `git config http.proxy http://127.0.0.1:9087`
 	- 设置全局http代理，提高git网络速度
-		- `git config --global http.proxy http://127.0.0.1:10809`
-		- `git config --global https.proxy http://127.0.0.1:10809`
+		- `git config --global http.proxy http://127.0.0.1:9087`
+		- `git config --global https.proxy http://127.0.0.1:9087`
 	- 查询设置的http代理
 		- `git config --global --get http.proxy`
 		- `git config --global --get https.proxy`

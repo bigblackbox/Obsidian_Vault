@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CODECODE/GIT相关/GIT.md",
-                "mode": "source",
+                "file": "obsidian笔记测试/测试.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CODECODE/GIT相关/GIT.md",
+                "file": "obsidian笔记测试/测试.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CODECODE/GIT相关/GIT.md",
+                "file": "obsidian笔记测试/测试.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CODECODE/GIT相关/GIT.md"
+                "file": "obsidian笔记测试/测试.md"
               }
             }
           }
@@ -148,9 +148,9 @@
   },
   "active": "f620bb9ecc68184a",
   "lastOpenFiles": [
+    "CODECODE/GIT相关/GIT.md",
     "obsidian笔记测试/测试.md",
     "README.md",
-    "CODECODE/GIT相关/GIT.md",
     "CODECODE/一些问题.md",
     "My_Windows_PC/配置清单.md",
     "Chat_AI/AI相关.md",
