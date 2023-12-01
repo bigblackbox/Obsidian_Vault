@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "obsidian笔记测试/测试.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#abc",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -146,7 +147,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "8990439362ab0cdc",
+  "active": "ddd80706238510a8",
   "lastOpenFiles": [
     "CODECODE/GIT相关/GIT.md",
     "obsidian笔记测试/测试.md",

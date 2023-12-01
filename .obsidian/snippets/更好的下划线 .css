@@ -1,0 +1,33 @@
+u {
+  text-decoration: none;
+  display: inline-block;
+  font-weight: bolder;
+  background: linear-gradient(#ffffff00 73%, #1d42fc 15%);
+  color: none;
+  padding: 2px 0px 0px;
+  margin-right: 2px;
+  height: 30%;
+  transition: background-color 0.5s ease-in-out, height 0.5s ease-in-out;
+}
+
+u:hover {
+  background-color: #8686865e;
+}
+
+@keyframes change-background {
+  0% {
+    background-position: 0% 0%;
+  }
+  15% {
+    background-position: 15% 0%;
+  }
+  40% {
+    background-position: 50% 0%;
+  }
+  80% {
+    background-position: 90% 0%;
+  }
+  100% {
+    background-position: 100% 0%;
+  }
+}

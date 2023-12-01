@@ -5,12 +5,13 @@
   "translucency": true,
   "monospaceFontFamily": "Andale Mono",
   "enabledCssSnippets": [
-    "default",
-    "link",
     "pic_center",
-    "table",
     "quotes_callout",
     "quote",
-    "marker"
+    "marker",
+    "check_box",
+    "default",
+    "link",
+    "tag"
   ]
 }
