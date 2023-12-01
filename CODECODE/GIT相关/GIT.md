@@ -1,5 +1,17 @@
-- wei.liu2mars@outlook.com
+- `wei.liu2mars@outlook.com`
 - git_token
 	- xxx
 - git push时提示不支持password认证，需要使用token认证
-	- git remote set-url origin https://xxx@github.com/{username}/{git-repository}.git
+	- git remote set-url origin `https://xxx@github.com/{username}/{git-repository}.git`
+- 开启代理后，git网络不同，需要设置git代理
+	- 设置指定仓库
+	- 设置全局http代理，提高git网络速度
+		- `git config --global http.proxy http://127.0.0.1:10809`
+		- `git config --global https.proxy http://127.0.0.1:10809`
+	- 查询设置的http代理
+		- `git config --global --get http.proxy`
+		- `git config --global --get https.proxy`
+	- 取消http代理
+		- `git config --global --unset http.proxy`
+		- `git config --global --unset https.proxy`
+
