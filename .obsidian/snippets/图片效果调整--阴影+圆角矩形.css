@@ -1,8 +1,0 @@
-.markdown-preview-view img {
-    max-width: 100%;
-    outline: none;
-	-webkit-filter: drop-shadow(5px 5px 5px rgba(0, 0, 0, 0.266));/*阴影效果*/
-	  background-clip: content-box,padding-box;
-	  border-radius: 20px 20px 20px;/*圆角矩形 左上角：20px；右上角和左下角：10px；右下角：40px*/
-                
-}

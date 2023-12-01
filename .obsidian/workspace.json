@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -147,13 +146,14 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "ddd80706238510a8",
+  "active": "8990439362ab0cdc",
   "lastOpenFiles": [
-    "CODECODE/GIT相关/GIT.md",
-    "obsidian笔记测试/测试.md",
-    "README.md",
-    "CODECODE/一些问题.md",
     "My_Windows_PC/配置清单.md",
+    "obsidian笔记测试/测试.md",
+    "PICTURE_FILES/Pasted image 20231201110056.png",
+    "CODECODE/一些问题.md",
+    "CODECODE/GIT相关/GIT.md",
+    "README.md",
     "Chat_AI/AI相关.md",
     "PICTURE_FILES/Pasted image 20231130161558.png",
     "Chat_AI",
