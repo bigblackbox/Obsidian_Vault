@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "obsidian笔记测试/测试.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -128,9 +128,17 @@
                 "file": "obsidian笔记测试/测试.md"
               }
             }
+          },
+          {
+            "id": "9bf58cae278c2b31",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -151,12 +159,12 @@
   "active": "8990439362ab0cdc",
   "lastOpenFiles": [
     "My_Windows_PC/配置清单.md",
+    "CODECODE/GIT相关/GIT.md",
+    "Chat_AI/AI相关.md",
+    "CODECODE/一些问题.md",
     "obsidian笔记测试/测试.md",
     "PICTURE_FILES/Pasted image 20231201110056.png",
-    "CODECODE/一些问题.md",
-    "CODECODE/GIT相关/GIT.md",
     "README.md",
-    "Chat_AI/AI相关.md",
     "PICTURE_FILES/Pasted image 20231130161558.png",
     "Chat_AI",
     "My_MacBook",

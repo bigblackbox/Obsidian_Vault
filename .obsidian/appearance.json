@@ -1,6 +1,6 @@
 {
   "accentColor": "",
-  "cssTheme": "Things",
+  "cssTheme": "Blue Topaz",
   "theme": "system",
   "translucency": true,
   "monospaceFontFamily": "Andale Mono",
@@ -17,7 +17,8 @@
     "图片效果调整--阴影+圆角矩形",
     "悬停 图片自动放大",
     "标题居中",
-    "分割线",
-    "首行缩进"
-  ]
+    "分割线"
+  ],
+  "nativeMenus": true,
+  "showViewHeader": true
 }
