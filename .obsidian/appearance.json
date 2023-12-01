@@ -3,7 +3,7 @@
   "cssTheme": "Blue Topaz",
   "theme": "system",
   "translucency": true,
-  "monospaceFontFamily": "Andale Mono",
+  "monospaceFontFamily": "Apple SD Gothic Neo,Andale Mono",
   "enabledCssSnippets": [
     "pic_center",
     "quotes_callout",
