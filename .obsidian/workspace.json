@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "obsidian笔记测试/测试.md",
+                "file": "CODECODE/一些问题.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "obsidian笔记测试/测试.md",
+                "file": "CODECODE/一些问题.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "obsidian笔记测试/测试.md",
+                "file": "CODECODE/一些问题.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "obsidian笔记测试/测试.md"
+                "file": "CODECODE/一些问题.md"
               }
             }
           },
@@ -156,13 +156,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8990439362ab0cdc",
+  "active": "06f2eae6c52f6411",
   "lastOpenFiles": [
+    "obsidian笔记测试/测试.md",
     "CODECODE/一些问题.md",
     "CODECODE/GIT相关/GIT.md",
     "Chat_AI/AI相关.md",
     "My_Windows_PC/配置清单.md",
-    "obsidian笔记测试/测试.md",
     "PICTURE_FILES/Pasted image 20231201110056.png",
     "README.md",
     "PICTURE_FILES/Pasted image 20231130161558.png",
